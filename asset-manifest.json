@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/firstlookweb/static/css/main.8f221108.chunk.css",
+    "main.js": "/firstlookweb/static/js/main.9c5e8189.chunk.js",
+    "main.js.map": "/firstlookweb/static/js/main.9c5e8189.chunk.js.map",
+    "runtime-main.js": "/firstlookweb/static/js/runtime-main.661d28eb.js",
+    "runtime-main.js.map": "/firstlookweb/static/js/runtime-main.661d28eb.js.map",
+    "static/js/2.ac89282d.chunk.js": "/firstlookweb/static/js/2.ac89282d.chunk.js",
+    "static/js/2.ac89282d.chunk.js.map": "/firstlookweb/static/js/2.ac89282d.chunk.js.map",
+    "static/js/3.a511973f.chunk.js": "/firstlookweb/static/js/3.a511973f.chunk.js",
+    "static/js/3.a511973f.chunk.js.map": "/firstlookweb/static/js/3.a511973f.chunk.js.map",
+    "index.html": "/firstlookweb/index.html",
+    "static/css/main.8f221108.chunk.css.map": "/firstlookweb/static/css/main.8f221108.chunk.css.map",
+    "static/js/2.ac89282d.chunk.js.LICENSE.txt": "/firstlookweb/static/js/2.ac89282d.chunk.js.LICENSE.txt",
+    "static/media/background.8be2d332.jpg": "/firstlookweb/static/media/background.8be2d332.jpg",
+    "static/media/logo.6ce24c58.svg": "/firstlookweb/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.661d28eb.js",
+    "static/js/2.ac89282d.chunk.js",
+    "static/css/main.8f221108.chunk.css",
+    "static/js/main.9c5e8189.chunk.js"
+  ]
+}
